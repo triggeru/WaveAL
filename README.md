@@ -27,3 +27,6 @@ Encountered a bug? Ask for help in our Discord server before opening a ticket.
 You can report crashes by copying and pasting the console's output.
 
 I'd be very grateful for suggestions too!
+
+
+Inspired by Perseus, Belfast, and Azur Cosplay.
