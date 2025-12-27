@@ -37,4 +37,4 @@ Do not publicly share your logs .txt files, as there is a risk of losing your ac
 
 I'd be very grateful for suggestions too!
 
-[Join the Discord server](discord.gg/DEkuZkmhpF)
+[Join the Discord server](http://discord.gg/DEkuZkmhpF)
