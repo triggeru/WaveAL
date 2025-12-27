@@ -3,7 +3,7 @@
 </p>
 
 # WaveAL
-WaveAL is a pet project and mod that locally unlocks downloaded skins.
+WaveAL is a pet project and mod that locally unlocks all skins, that you have downloaded.
 Individual skin configurations are saved depending on region, account and server.
 
 > [!IMPORTANT]
