@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./src/assets/WaveAL_Icon2.png" alt="drawing" width="200" class="center"/>
+    <img src="./assets/WaveAL_Icon2.png" alt="drawing" width="200" class="center"/>
 </p>
 
 # WaveAL
