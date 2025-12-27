@@ -10,7 +10,7 @@ Individual skin configurations are saved depending on region, account and server
 > The project currently only supports EN servers.
 
 > [!IMPORTANT]  
-> This project only runs on Windows 10/11.
+> This project has only been tested on Windows 10/11.
 
 Modifications are exclusively local, as we do not support harming other players' experiences.
 
