@@ -14,6 +14,7 @@ Individual skin configurations are saved depending on region, account and server
 
 Modifications are exclusively local, as we do not support harming other players' experiences.
 
+Video demonstration:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3l1suJZJ_hU">
     <img src="https://img.youtube.com/vi/3l1suJZJ_hU/0.jpg" width="560">
