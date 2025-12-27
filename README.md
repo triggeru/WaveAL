@@ -14,8 +14,11 @@ Individual skin configurations are saved depending on region, account and server
 
 Modifications are exclusively local, as we do not support harming other players' experiences.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3l1suJZJ_hU?si=oYS6lF-H4feUAwYx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3l1suJZJ_hU">
+    <img src="https://img.youtube.com/vi/3l1suJZJ_hU/0.jpg" width="560">
+  </a>
+</p>
 
 
 ## 🥰 Future updates
