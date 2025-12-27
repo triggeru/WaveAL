@@ -28,3 +28,5 @@ You can report crashes by copying and pasting the console's output.
 Do not publicly share your logs .txt files, as there is a risk of losing your account.
 
 I'd be very grateful for suggestions too!
+
+[Join the Discord server](discord.gg/DEkuZkmhpF)
