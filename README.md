@@ -6,6 +6,8 @@
 WaveAL is a pet project and mod that locally unlocks all downloaded skins, for Azur Lane.
 Individual skin configurations are saved depending on region, account and server.
 
+Haven't been banned in over a year of usage.
+
 > [!IMPORTANT]
 > The project currently only supports EN servers.
 
