@@ -3,7 +3,7 @@
 </p>
 
 # WaveAL
-WaveAL is a pet project and mod that locally unlocks all skins, that you have downloaded.
+WaveAL is a pet project and mod that locally unlocks all downloaded skins, for Azur Lane.
 Individual skin configurations are saved depending on region, account and server.
 
 > [!IMPORTANT]
