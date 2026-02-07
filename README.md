@@ -1,16 +1,10 @@
-<p align="center">
-
-    
-</p>
-
-<div align="center">
+<div style="text-align: center;">
     <img src="./assets/WaveAL_Icon2.png" alt="drawing" width="200" class="center"/>
 
     <a href="https://discord.gg/DEkuZkmhpF">
         <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
     </a>
-
-<\div>
+</div>
 
 
 # WaveAL
