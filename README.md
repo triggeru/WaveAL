@@ -1,6 +1,17 @@
 <p align="center">
-    <img src="./assets/WaveAL_Icon2.png" alt="drawing" width="200" class="center"/>
+
+    
 </p>
+
+<div align="center">
+    <img src="./assets/WaveAL_Icon2.png" alt="drawing" width="200" class="center"/>
+
+    <a href="https://discord.gg/DEkuZkmhpF">
+        <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
+    </a>
+
+<\div>
+
 
 # WaveAL
 WaveAL is a pet project and mod that locally unlocks all downloaded skins, for Azur Lane.
