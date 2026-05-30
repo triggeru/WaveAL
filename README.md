@@ -31,7 +31,7 @@ Video demonstration:
 
 
 ## 🥰 Future updates
-- Do something about adb
+- Unlock all secretaries
 - Add support for other server regions
 
 ## 😟 Debugging
